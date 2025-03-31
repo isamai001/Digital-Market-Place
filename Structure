@@ -1,0 +1,15 @@
+Project Structure
+
+digital-marketplace-frontend/
+│── index.html        (Home Page)
+│── products.html     (Product Listings)
+│── login.html        (User Login)
+│── register.html     (User Registration)
+│── dashboard.html    (User Dashboard)
+│── assets/
+│   ├── css/
+│   │   ├── styles.css  (Main Stylesheet)
+│   ├── js/
+│   │   ├── main.js    (General Scripts)
+│   ├── images/       (Product & UI Images)
+│── README.md         (Project Documentation)
